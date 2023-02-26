@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\USB_TTL\Project Outputs for USB_TTL\Pick Place\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       25/02/23
+Time:       23:14
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","CP2102-GMR","TopLayer","SLAB-QFN-28-3125x3125TP_M","-273.103","-77.824","180","Single-Chip USB to URAT Bridge, 3.3 V, -40 to 85 degC, 28-Pin QFN, RoHS, Tape and Reel"
+"R1","10K¶∏","TopLayer","0402_R","-273.103","111.320","90","Ã˘∆¨µÁ◊Ë, 10K¶∏ (1002) °¿1%"
+"J3","SM04B-GHS-TB(LF)(SN)","BottomLayer","FP-SM04B-GHS-TB_LF_SN-MFG","-545.908","7.176","90","CONN HEADER SMD R/A 4POS 1.25MM"
+"J2","SM04B-GHS-TB(LF)(SN)","TopLayer","FP-SM04B-GHS-TB_LF_SN-MFG","-545.908","7.176","270","CONN HEADER SMD R/A 4POS 1.25MM"
+"J1","480-37-1000","BottomLayer","MOLX-480-37-1000_V","88.078","-0.619","270","Universal Serial Bus (USB) Shielded I/O Plug, Type A, Right Angle Connector, 1.5 A, -20 to 85 degC, 4-Pin SMD, RoHS, Tray"
+"C3","100nF","TopLayer","0402_C","-98.103","-79.556","90","Ã˘∆¨µÁ»›, 100nF (104) 10% 16V"
+"C2","100nF","TopLayer","0402_C","-81.371","27.176","180","Ã˘∆¨µÁ»›, 100nF (104) 10% 16V"
+"C1","1uF","TopLayer","0603_C","-168.103","133.368","270","Ã˘∆¨µÁ»›, 1uF (105) 10% 50V"
