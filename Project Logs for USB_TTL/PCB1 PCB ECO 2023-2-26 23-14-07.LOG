@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=Tx Pin=D2-1
+Removed Pin From Net: NetName=NetD1_2 Pin=J3-3
+Removed Pin From Net: NetName=Rx Pin=R3-2
+Removed Pin From Net: NetName=Rx Pin=U1-25
+Removed Pin From Net: NetName=Tx Pin=U1-26
+Removed Member From Class: ClassName=Sheet1 Member=D2
+Removed Member From Class: ClassName=Sheet1 Member=R3
+Change Component Footprint: Designator=D1 Old Footprint=FP-SOD123-IPC_A New Footprint=SOD-323
+Change Component Comment : Designator=D1 Old Comment=1N5819HW-7-F New Comment=1N4148WS T4
+Change Managed Component Library Link : Designator=D1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=E1E48E8A-31C5-4BAC-8B58-89186359133C New ItemGUID= Old RevisionGUID=5FF77929-B791-4119-B39D-2AD3380BBA0B New RevisionGUID=
+Change component parameters: Designator = "D1" ("D1"); Footprint = "FP-SOD123-IPC_A"; UniqueID = "\CYOHXBSW" ("\CYOHXBSW")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_2485.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C2128"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Rx Pin=J2-3
+Added Pin To Net: NetName=Tx Pin=J2-4
+Added Pin To Net: NetName=Rx Pin=J3-2
+Added Pin To Net: NetName=Tx Pin=J3-3
+Added Pin To Net: NetName=NetD1_2 Pin=U1-26
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U1-25
+Added Net: Name=NetR2_1

@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Public\Documents\Altium\Projects\USB_TTL\PCB1.PcbDoc
+PCB File : C:\workspace\USB-TTL\PCB1.PcbDoc
 Date     : 2023/2/26
-Time     : 1:11:03
+Time     : 23:51:58
 
 Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
 Rule Violations :0
@@ -22,10 +22,7 @@ Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=5mil) (Con
 Rule Violations :0
 
 Processing Rule : Minimum Annular Ring (Minimum=7.874mil) (All)
-   Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-475mil,-190mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-610mil,190mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)
-   Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-610mil,-190mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)
-Rule Violations :3
+Rule Violations :0
 
 Processing Rule : Hole Size Constraint (Min=7.874mil) (Max=248.031mil) (All)
 Rule Violations :0
@@ -52,49 +49,60 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 Waived Violations Of Rule : Minimum Annular Ring (Minimum=7.874mil) (All)
-   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-130mil,70mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-140.981mil,-49.334mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-140mil,-75mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-229.796mil,-121.131mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-229.796mil,-34.517mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-229.796mil,-77.824mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-253.418mil,-211.677mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-273.103mil,-121.131mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-273.103mil,-34.517mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-273.103mil,-77.824mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-281.603mil,-230.519mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
+   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-105mil,10mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-110mil,-20mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-229.796mil,2.176mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-229.796mil,-41.131mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-229.796mil,45.483mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-273.103mil,2.176mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-273.103mil,-41.131mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-273.103mil,45.483mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-295mil,-245mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
    Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-30mil,-140mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-316.41mil,-121.131mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-316.41mil,-34.517mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-316.41mil,-77.824mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/25 23:07:49
-Waived Violations :15
+   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-316.41mil,2.176mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-316.41mil,-41.131mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (5.906mil < 7.874mil) Via (-316.41mil,45.483mil) from Top Layer to Bottom Layer (Annular Ring=5.906mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-411.871mil,-159.113mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-475mil,-190mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 1:11:25
+   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-610mil,190mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 1:11:25
+   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-610mil,-190mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 1:11:25
+   Waived Violation between Minimum Annular Ring: (3.937mil < 7.874mil) Via (-95mil,140mil) from Top Layer to Bottom Layer (Annular Ring=3.937mil) On (Top Layer)Waived by 天纵 程 at 2023/2/26 23:28:37
+Waived Violations :18
 
 Waived Violations Of Rule : Minimum Solder Mask Sliver (Gap=3.937mil) (All),(All)
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-1(-175.662mil,-136.879mil) on Top Layer And Pad U1-2(-175.662mil,-117.194mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-10(-253.418mil,19.617mil) on Top Layer And Pad U1-11(-273.103mil,19.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-10(-253.418mil,19.617mil) on Top Layer And Pad U1-9(-233.733mil,19.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-11(-273.103mil,19.617mil) on Top Layer And Pad U1-12(-292.788mil,19.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-12(-292.788mil,19.617mil) on Top Layer And Pad U1-13(-312.473mil,19.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-13(-312.473mil,19.617mil) on Top Layer And Pad U1-14(-332.158mil,19.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-15(-370.544mil,-18.768mil) on Top Layer And Pad U1-16(-370.544mil,-38.453mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-16(-370.544mil,-38.453mil) on Top Layer And Pad U1-17(-370.544mil,-58.139mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-17(-370.544mil,-58.139mil) on Top Layer And Pad U1-18(-370.544mil,-77.824mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-18(-370.544mil,-77.824mil) on Top Layer And Pad U1-19(-370.544mil,-97.509mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-19(-370.544mil,-97.509mil) on Top Layer And Pad U1-20(-370.544mil,-117.194mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-2(-175.662mil,-117.194mil) on Top Layer And Pad U1-3(-175.662mil,-97.509mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-20(-370.544mil,-117.194mil) on Top Layer And Pad U1-21(-370.544mil,-136.879mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-22(-332.158mil,-175.264mil) on Top Layer And Pad U1-23(-312.473mil,-175.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-23(-312.473mil,-175.264mil) on Top Layer And Pad U1-24(-292.788mil,-175.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-24(-292.788mil,-175.264mil) on Top Layer And Pad U1-25(-273.103mil,-175.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-25(-273.103mil,-175.264mil) on Top Layer And Pad U1-26(-253.418mil,-175.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-26(-253.418mil,-175.264mil) on Top Layer And Pad U1-27(-233.733mil,-175.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-27(-233.733mil,-175.264mil) on Top Layer And Pad U1-28(-214.048mil,-175.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-3(-175.662mil,-97.509mil) on Top Layer And Pad U1-4(-175.662mil,-77.824mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-4(-175.662mil,-77.824mil) on Top Layer And Pad U1-5(-175.662mil,-58.139mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-5(-175.662mil,-58.139mil) on Top Layer And Pad U1-6(-175.662mil,-38.453mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-6(-175.662mil,-38.453mil) on Top Layer And Pad U1-7(-175.662mil,-18.768mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-8(-214.048mil,19.617mil) on Top Layer And Pad U1-9(-233.733mil,19.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
-Waived Violations :24
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-1(-175.662mil,-56.879mil) on Top Layer And Pad U1-2(-175.662mil,-37.194mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-10(-253.418mil,99.617mil) on Top Layer And Pad U1-11(-273.103mil,99.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-10(-253.418mil,99.617mil) on Top Layer And Pad U1-9(-233.733mil,99.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-11(-273.103mil,99.617mil) on Top Layer And Pad U1-12(-292.788mil,99.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-12(-292.788mil,99.617mil) on Top Layer And Pad U1-13(-312.473mil,99.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-13(-312.473mil,99.617mil) on Top Layer And Pad U1-14(-332.158mil,99.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-15(-370.544mil,61.232mil) on Top Layer And Pad U1-16(-370.544mil,41.547mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-16(-370.544mil,41.547mil) on Top Layer And Pad U1-17(-370.544mil,21.861mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-17(-370.544mil,21.861mil) on Top Layer And Pad U1-18(-370.544mil,2.176mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-18(-370.544mil,2.176mil) on Top Layer And Pad U1-19(-370.544mil,-17.509mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-19(-370.544mil,-17.509mil) on Top Layer And Pad U1-20(-370.544mil,-37.194mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-2(-175.662mil,-37.194mil) on Top Layer And Pad U1-3(-175.662mil,-17.509mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-20(-370.544mil,-37.194mil) on Top Layer And Pad U1-21(-370.544mil,-56.879mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-22(-332.158mil,-95.264mil) on Top Layer And Pad U1-23(-312.473mil,-95.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-23(-312.473mil,-95.264mil) on Top Layer And Pad U1-24(-292.788mil,-95.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-24(-292.788mil,-95.264mil) on Top Layer And Pad U1-25(-273.103mil,-95.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/26 23:33:21
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-25(-273.103mil,-95.264mil) on Top Layer And Pad U1-26(-253.418mil,-95.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/26 23:33:21
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-26(-253.418mil,-95.264mil) on Top Layer And Pad U1-27(-233.733mil,-95.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/26 23:33:21
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-27(-233.733mil,-95.264mil) on Top Layer And Pad U1-28(-214.048mil,-95.264mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-3(-175.662mil,-17.509mil) on Top Layer And Pad U1-4(-175.662mil,2.176mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-4(-175.662mil,2.176mil) on Top Layer And Pad U1-5(-175.662mil,21.861mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-5(-175.662mil,21.861mil) on Top Layer And Pad U1-6(-175.662mil,41.547mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-6(-175.662mil,41.547mil) on Top Layer And Pad U1-7(-175.662mil,61.232mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 3.937mil) Between Pad U1-8(-214.048mil,99.617mil) on Top Layer And Pad U1-9(-233.733mil,99.617mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]Waived by 天纵 程 at 2023/2/25 23:07:45
+   Waived Violation between Minimum Solder Mask Sliver Constraint: (2.729mil < 3.937mil) Between Via (-105mil,10mil) from Top Layer to Bottom Layer And Via (-110mil,-20mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [2.729mil] / [Bottom Solder] Mask Sliver [2.729mil]Waived by 天纵 程 at 2023/2/26 23:33:21
+Waived Violations :25
+
+Waived Violations Of Rule : Net Antennae (Tolerance=0mil) (All)
+   Waived Violation between Net Antennae: Via (-229.796mil,-41.131mil) from Top Layer to Bottom Layer Waived by 天纵 程 at 2023/2/26 23:33:33
+   Waived Violation between Net Antennae: Via (-229.796mil,45.483mil) from Top Layer to Bottom Layer Waived by 天纵 程 at 2023/2/26 23:33:33
+   Waived Violation between Net Antennae: Via (-316.41mil,-41.131mil) from Top Layer to Bottom Layer Waived by 天纵 程 at 2023/2/26 23:33:33
+   Waived Violation between Net Antennae: Via (-316.41mil,45.483mil) from Top Layer to Bottom Layer Waived by 天纵 程 at 2023/2/26 23:33:33
+Waived Violations :4
 
 Waived Violations Of Rule : Board Clearance Constraint (Gap=0mil) (All)
    Waived Violation between Board Outline Clearance(Outline Edge): (12.951mil < 15.748mil) Between Board Edge And Pad J2-5(-608.9mil,146.654mil) on Top Layer Waived by 天纵 程 at 2023/2/25 23:07:01
@@ -107,6 +115,6 @@ Waived Violations Of Rule : Board Clearance Constraint (Gap=0mil) (All)
 Waived Violations :7
 
 
-Violations Detected : 3
-Waived Violations : 46
-Time Elapsed        : 00:00:01
+Violations Detected : 0
+Waived Violations : 54
+Time Elapsed        : 00:00:02
