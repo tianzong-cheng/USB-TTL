@@ -108,15 +108,27 @@ DocumentPath=Project Outputs for USB_TTL_1.1\BOM\Bill of Materials-PCB1.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for USB_TTL_1.1\Design Rule Check - PCB1.html
+DocumentPath=Project Outputs for USB_TTL_1.1\BOM\Bill of Materials-usb_ttl.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for PCB1.txt
+DocumentPath=Project Outputs for USB_TTL_1.1\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
+DocumentPath=Project Outputs for USB_TTL_1.1\Design Rule Check - usb_ttl.html
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for PCB1.txt
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=Project Outputs for USB_TTL_1.1\Pick Place\Pick Place for PCB1.txt
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for USB_TTL_1.1\Pick Place\Pick Place for usb_ttl.txt
 DItemRevisionGUID=
 
 [Configuration1]
